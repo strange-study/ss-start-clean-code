@@ -2,6 +2,12 @@
 
 🧹 크으으린 코드 스터디
 
+- 1주차
+  - [01. 깨끗한 코드](/week1/01.%20깨끗한%20코드.md)
+  - [02. 의미있는 이름](/week1/02.%20의미있는%20이름.md)
+  - [주간 소감 및 Q&A 정리 이슈](https://github.com/strange-study/ss-start-clean-code/issues/2)
+- 2주차
+
 ## 1. 목표
 
 - [[책] Clean Code](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966260959) 1회독 뿌수기!
@@ -42,6 +48,8 @@
   - 진도: 1-2장
 - week 2
   - 발표자: 윤진주
+  - 2020.07.12.(화) 20:00-21:00
+  - 진도: 3-4장
 - week 3
   - 발표자: 민세원
 - week 4
@@ -49,11 +57,11 @@
 - week 5
   - 발표자: 김예린
 - week 6
-  - 발표자: 곽대훈
+  - 발표자: 미정
 - week 7
-  - 발표자: 윤진주
+  - 발표자: 미정
 - week 8 🎉
-  - 발표자: 민세원
+  - 발표자: 미정
 
 ## References
 
