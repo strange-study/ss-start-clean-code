@@ -11,6 +11,8 @@
   - [04. 주석](/week2/04.%20주석.md)
   - [주간 소감](https://github.com/strange-study/ss-start-clean-code/issues/5) 및 [Q&A 모음](/week2/Q%26A.md)
 - 3주차
+  - [05. 형식맞추기](/week3/05.%20형식맞추기.md)
+  - [06. 객체와 자료구조](/week3/06.%20객체와%20자료구조.md)
 
 
 
