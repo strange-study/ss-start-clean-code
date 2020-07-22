@@ -7,6 +7,14 @@
   - [02. 의미있는 이름](/week1/02.%20의미있는%20이름.md)
   - [주간 소감 및 Q&A 정리 이슈](https://github.com/strange-study/ss-start-clean-code/issues/2)
 - 2주차
+  - [03. 함수](/week2/03.%20함수.md)
+  - [04. 주석](/week2/04.%20주석.md)
+  - [주간 소감](https://github.com/strange-study/ss-start-clean-code/issues/5) 및 [Q&A 모음](/week2/Q%26A.md)
+- 3주차
+  - [05. 형식맞추기](/week3/05.%20형식맞추기.md)
+  - [06. 객체와 자료구조](/week3/06.%20객체와%20자료구조.md)
+  - [주간 소감 및 정리 이슈](https://github.com/strange-study/ss-start-clean-code/issues/7)
+
 
 ## 1. 목표
 
@@ -48,10 +56,12 @@
   - 진도: 1-2장
 - week 2
   - 발표자: 윤진주
-  - 2020.07.12.(화) 20:00-21:00
+  - 2020.07.14.(화) 20:00-21:00
   - 진도: 3-4장
 - week 3
   - 발표자: 민세원
+  - 2020.07.21 (화) 20:00-21:00
+  - 진도: 5-6장
 - week 4
   - 발표자: 조명기
 - week 5
