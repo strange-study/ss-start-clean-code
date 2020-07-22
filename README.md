@@ -13,7 +13,7 @@
 - 3주차
   - [05. 형식맞추기](/week3/05.%20형식맞추기.md)
   - [06. 객체와 자료구조](/week3/06.%20객체와%20자료구조.md)
-
+  - [주간 소감 및 정리 이슈](https://github.com/strange-study/ss-start-clean-code/issues/7)
 
 
 ## 1. 목표
